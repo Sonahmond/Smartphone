@@ -1,7 +1,7 @@
 # Smartphone
 Download game on: ( <a href="https://sonahmond.github.io/Download/">https://sonahmond.github.io/Download</a> ).
 <br>
-<img src="https://github.com/Sonahmond/sonahmond.github.io/blob/main/logo.png">
+<img src="https://sonahmond.github.io/Images/favicon.ico">
 <br>
 Home - ( <a href="https://sonahmond.github.io">https://sonahmond.github.io</a> ).
 <br>
